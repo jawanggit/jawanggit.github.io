@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-**This site archives my notes from the Code 201 course**
+***This site archives my notes from the _Code 201_ course***
 
 **Table of Contents**
 
