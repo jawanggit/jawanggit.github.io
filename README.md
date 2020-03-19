@@ -4,7 +4,7 @@
 
 **Table of Contents**
 
-* [Day 1 Reading](https://jawanggit/reading-notes)
+* [Day 1 Reading](https://jawanggit/reading-notes/class-01.md)
 * READING ASSIGNMENT 2
 * READING ASSIGNMENT 3
 * READING ASSIGNMENT 4
