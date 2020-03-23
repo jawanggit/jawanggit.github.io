@@ -19,7 +19,7 @@ Chapter 4: “Decisions and Loops” only up to the section on switch statements
 
 <h2> Chapter 10 Introducing CSS </h2>
 <em> Overview: CSS allows you to create rules that specify how the content of an element should appear </em>
-Example on pg 231: p { font-family: Arial;}
+<p>Example on pg 231: p { font-family: Arial;}</p>
 <ul> p is the selector </ul>
 <ul>{...} is the declaration </ul>
 <ul>font-family is a type of property</ul>
