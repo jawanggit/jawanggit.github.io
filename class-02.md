@@ -29,4 +29,15 @@ Chapter 4: “Decisions and Loops” only up to the section on switch statements
 <p>CSS selectors  such *{}, .note{}, #introduciton{} are on pg 238 <br />
 CSS rules cascade by the last rule and by specificity on pg 239 </p>
 
+<h2> Chapter 2 Basic Javascript Instructions </h2>
 
+<p>a script is made up of a series of statements. each statement is like a step in a recipe.</p>
+<p>examples of basic javascript instructions are on pg 82-83</p>
+
+<p>arithmetic operators are on pg 76-77 </p>
+<p>arrays are a special type of vairable - it stores a list of values </p>
+
+<h2> Chapter 4: “Decisions and Loops” </h2>
+
+<p> conditional statements allow your code to make decisions about what to do next </p>
+  
