@@ -5,7 +5,7 @@
 **Table of Contents**
 
 * [Day 1 Reading](class-01.md)
-* READING ASSIGNMENT 2
+* [Day 2 Reading](class-02.md)
 * READING ASSIGNMENT 3
 * READING ASSIGNMENT 4
 * READING ASSIGNMENT 5
