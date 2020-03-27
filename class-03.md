@@ -15,8 +15,8 @@
 <li> ordered lists </li>
 <li> unordered lists </li>
 <li> definition lists <em>see pg 67</em></li>
-  sample output:
-  <dl>
+  sample html from book:
+  &ltdl>
 			<dt>Sashimi</dt>
 			<dd>Sliced raw fish that is served with condiments such as shredded daikon radish or ginger root, wasabi and soy sauce</dd>
 			<dt>Scale</dt>
