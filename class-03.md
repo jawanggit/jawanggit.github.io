@@ -21,7 +21,8 @@
 <h1>Chapter 4: "Decisions and Loops" from switch statements (HTML)</h1>
 
 <h2>Using Switch statements see pg (165)</h2>
-<p>switch statement is to present the user with a different message depending on which level they are at. Pg 164 compares if statements vs switch statements</p>
+<p>switch statement is to present the user with a different message depending on which level they are at. Pg 164 compares if statements vs switch statements Example code from textbook below:
+</p>
 "var msg;        // Message
 var level = 2;  // Level
 
