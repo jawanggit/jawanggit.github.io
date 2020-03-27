@@ -14,18 +14,6 @@
 <ul>
 <li> ordered lists </li>
 <li> unordered lists </li>
-	<li> <a href="http://www.htmlandcssbook.com/code-samples/chapter-03/definition-lists.html"</a>definition lists <em>see pg 67</em></li>
-  sample html from book: <link href = http://www.htmlandcssbook.com/code-samples/chapter-03/definition-lists.html>
-  <dl>
-		<dt>Sashimi</dt>
-		<dd>Sliced raw fish that is served with condiments such as shredded daikon radish or ginger root, wasabi and soy sauce</dd>
-		<dt>Scale</dt>
-		<dd>A device used to accurately measure the weight of ingredients</dd>
-		<dd>A technique by which the scales are removed from the skin of a fish</dd>
-		<dt>Scamorze</dt>
-		<dt>Scamorzo</dt>
-		<dd>An Italian cheese usually made from whole cow's milk (although it was traditionally made from buffalo milk)</dd>
-		</dl>
-
-  <li> nested lists <em>see pg 68</em></li>
+<li> <a href="http://www.htmlandcssbook.com/code-samples/chapter-03/definition-lists.html"</a>definition lists <em>see pg 67</em></li>
+	<li> <a href = http://www.htmlandcssbook.com/code-samples/chapter-03/nested-lists.html:</a>nested lists <em>see pg 68</em></li>
 </ul>
