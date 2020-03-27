@@ -14,6 +14,6 @@
 <ul>
 <li> ordered lists </li>
 <li> unordered lists </li>
-<li> definition lists </li>
-<li> nested lists </li>
+<li> definition lists <em>see pg 67</em></li>
+  <li> nested lists <em>see pg 68</em></li>
 </ul>
