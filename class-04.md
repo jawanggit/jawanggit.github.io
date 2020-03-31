@@ -20,6 +20,28 @@
 
 </ul>
 
+<h1> Chapter 15 - Layout </h1>
+<ul>
+<li> pg 361. browsers display pages in a normal flow unless you specify relative, absolute, or fixed positioning.<li>
+  <ul>
+    <li>examples on pg 365-370</li>
+  </ul>
+<li>the float property moves content to the left or right of the page and can be used to create multi-column layouts</li>
+  <ul>
+    <li>clearing floats allows you to say that no element should touch another</li>
+  </ul>
+<li>Pages can be fixed width or liquid (stretchy) layouts.</li>
+  <ul> 
+    <li>the pros and cons of fixed width vs liquuid are discussed on pg 381-382 </li>
+  </ul>
+<li>Designers keep pages within 960-1000 pixels wide and indicate what the site is about witin the top 600 pixels</li>
+  <ul>
+    <li>example layout are on pg 388 and css frameworks for layout are on pg 391</li>
+    <li>960.GS CSS framework uses a 12 column grid on pg 392 </li>
+    
+    
+</ul>
+
 
 
 
