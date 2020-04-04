@@ -6,8 +6,8 @@
 
 * [Day 1 Reading](class-01.md)
 * [Day 2 Reading](class-02.md)
-* READING ASSIGNMENT 3
-* READING ASSIGNMENT 4
+* [Day 3 Reading](class-03.md)
+* [Day 4 Reading](class-04.md)
 * READING ASSIGNMENT 5
 * READING ASSIGNMENT 6
 * READING ASSIGNMENT 7
