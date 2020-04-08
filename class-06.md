@@ -7,7 +7,7 @@
 <li>pg 101 shows a breakdown of properties and methods which each have keys and values</li>
 </ul>
 <li>pg 102 has an example of literal notation and example from google:</li>
-![literal notation example](http://www.instantquick.com/wp-content/uploads/2012/08/081312_2254_JavaScriptf21.png)
+![literal notation](http://www.instantquick.com/wp-content/uploads/2012/08/081312_2254_JavaScriptf21.png)
 
 <li>pg 103 show how to access an object using dot notation and/or square bracket syntax</li>
   - ex: var hotelName = hotel.name // hotel is the object and name is the property
