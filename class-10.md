@@ -1,4 +1,4 @@
-<em>Key points:<em>
+<em>Key points:</em>
 
 Every statement in a script lives in one of three execution contexts (pg 453):
 - global context, function contet, eval context
