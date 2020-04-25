@@ -19,8 +19,8 @@ Key Points:
 
 -On-page techniques are the methods you can use on your web pages to improve their ratings in search engines
 
-- How to identify keywords and phrases: Brainstorm, organize, and research, compare, refine, and map (pg 481-482)
+-How to identify keywords and phrases: Brainstorm, organize, and research, compare, refine, and map (pg 481-482)
 
-- Ask yourself these questions to help improve SEO: What are your visitors looking at? How many people are coming to your site? Where are your visitors coming from?
+-Ask yourself these questions to help improve SEO: What are your visitors looking at? How many people are coming to your site? Where are your visitors coming from?
 
-- Tools available: Google Analytics
+-Tools available: Google Analytics
