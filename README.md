@@ -18,4 +18,4 @@
 * [Day 12 Reading](class-12.md)
 * [Day 13 Reading](class-13.md)
 * READING ASSIGNMENT 14
-* READING ASSIGNMENT 15
+* [Day 15 Reading](class-15.md)
