@@ -17,5 +17,5 @@
 * [Day 11 Reading](class-11.md)
 * [Day 12 Reading](class-12.md)
 * [Day 13 Reading](class-13.md)
-* READING ASSIGNMENT 14
+* [Day 14 Reading](class-14.md)
 * [Day 15 Reading](class-15.md)
