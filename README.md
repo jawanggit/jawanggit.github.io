@@ -19,3 +19,13 @@
 * [Day 13 Reading](class-13.md)
 * [Day 14 Reading](class-14.md)
 * [Day 15 Reading](class-15.md)
+
+# Code 301 Reading Notes
+
+***This site archives my notes from the _Code 301_ course***
+
+**Table of Contents**
+
+* [Read 01](class-01.md)
+* [Read 02]
+* [Read 03]
