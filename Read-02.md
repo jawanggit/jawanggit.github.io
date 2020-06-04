@@ -1,5 +1,5 @@
-Reading JQuery Book: pg 293 -301
-6 Reasons for Paired Programming
+<h2>Reading JQuery Book: pg 293 -301</h2>
+  <h2>6 Reasons for Paired Programming</h2>
 
 Key Points:
 1. jQuery is a javascript file that offers a simple way to run JavaScript tasks quickly and consistently across all major browsers without fallback code needed.
